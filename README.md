@@ -1,4 +1,4 @@
-# getCursorPosition
+# getCursorPosition with python
 
 ```
 import pyautogui
